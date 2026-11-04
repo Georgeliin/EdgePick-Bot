@@ -1,4 +1,4 @@
-# EdgePick-Bot: 边缘端AI自动拾取小车
+# EdgePick-Bot: 边缘端AI自动拾取机器人
 
 基于 OpenMV + STM32 的单类目标识别与自动拾取闭环系统。
 
